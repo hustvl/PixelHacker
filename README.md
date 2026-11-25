@@ -18,6 +18,7 @@
 <sup>1</sup> Huazhong University of Science and Technology. <sup>2</sup> VIVO AI Lab.  
 
 [![arxiv](https://img.shields.io/badge/arXiv'25-Paper-orange)](https://arxiv.org/abs/2504.20438) [![license](https://img.shields.io/badge/License-Apache_2.0-blue)](LICENSE) [![Project](https://img.shields.io/badge/Project_Page-https://hustvl.github.io/PixelHacker-purple)](https://hustvl.github.io/PixelHacker) [![HF Daily Rank](https://img.shields.io/badge/Hugging%20Face-No.%201%20Daily%20Ranking-ffbd00)](https://huggingface.co/papers/date/2025-05-05)
+[![Papers with Code: SOTA on Places2](https://paperswithcode.co/api/v1/papers/2504.20438/leaderboard-badge.svg?eval=41327&live=1)](https://paperswithcode.co/api/v1/papers/2504.20438/leaderboard-badge-link?eval=41327) [![Papers with Code: SOTA on CelebA-HQ](https://paperswithcode.co/api/v1/papers/2504.20438/leaderboard-badge.svg?eval=41336&live=1)](https://paperswithcode.co/api/v1/papers/2504.20438/leaderboard-badge-link?eval=41336)
 </div>
 
 <img src="./assets/Pipeline.png"></img>
